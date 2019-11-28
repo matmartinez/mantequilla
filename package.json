@@ -1,6 +1,6 @@
 {
   "name": "mantequilla",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny library to animate things on JavaScript.",
   "main": "mantequilla.js",
   "scripts": {

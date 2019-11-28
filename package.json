@@ -1,0 +1,28 @@
+{
+  "name": "mantequilla",
+  "version": "1.0.0",
+  "description": "A tiny library to animate things on JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel demo/index.html",
+    "build": "parcel build mantequilla.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmartinez/oleo.git"
+  },
+  "keywords": [
+    "animation",
+    "animate",
+    "spring"
+  ],
+  "author": "Matías Martínez <soy@matias.ma> (https://matias.ma)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmartinez/oleo/issues"
+  },
+  "homepage": "https://github.com/matmartinez/oleo#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}

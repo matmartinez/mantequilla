@@ -1,2 +1,4 @@
-# oleo
-"Scrolls like oleo."
+# Mantequilla
+
+> "Scrolls like butter."
+—Steve Jobs

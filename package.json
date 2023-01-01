@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/matmartinez/mantequilla#readme",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   }
 }
